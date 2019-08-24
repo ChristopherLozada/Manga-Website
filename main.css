@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #fff;
+    font-family: Montserrat, serif, sans-serif;
+    font-weight: 300;
+}
